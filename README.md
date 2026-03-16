@@ -6,9 +6,9 @@ A Python Flask weather application integrated with Azure Cosmos DB and deployed 
 👉 http://weather-azure-app-mgk.azurewebsites.net
 
 ## 📸 Screenshots
-![Weather App Home](images/Screenshot 2026-03-16 at 11.14.09 AM.png)
-![Weather Result](images/Screenshot 2026-03-16 at 11.14.18 AM.png)
-![Azure Cosmos DB](images/Screenshot 2026-03-16 at 11.14.48 AM.png)
+![Weather App Home](images/screenshot1.png)
+![Weather Result](images/screenshot2.png)
+![Azure Cosmos DB](images/screenshot3.png)
 
 ## 🛠️ Tech Stack
 - Python + Flask
